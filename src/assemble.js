@@ -8,7 +8,6 @@ const {
   coerceToBN,
   leftZeroPadToByteLength
 } = require('./util');
-const ln = (v) => ((console.log(v)), v);
 
 const isLabelQuick = (s, labels) => labels[s];
 const isLabel = (s) => isNaN(s) && !ops[s] && !Array.isArray(s);
