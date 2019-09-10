@@ -1,6 +1,6 @@
 # EMASM
 
-This repo is for EMASM, the Ethereum Macro Assembler (derived from the name MASM for the classic Microsoft Macro Assembler). EMASM was developed for the ETHBoston 2019 hackathon to provide tooling for a technique that came to me in a dream I had a few weeks earlier. I woke up after that night, tested the technique, and it worked, so I was forced to share it with the community because apparently the deities of Ethereum chose me as their prophet and I was afraid that if I told no one, they would issue a transaction on to smite me, on mainnet.
+This repo is for EMASM, the Ethereum Macro Assembler (derived from the name MASM for the classic Microsoft Macro Assembler). EMASM was developed for the ETHBoston 2019 hackathon to provide tooling for a technique that came to me in a dream I had a few weeks earlier.
 
 ## The Technique
 
