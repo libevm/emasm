@@ -41,7 +41,9 @@ There is very little validation in the EMASM assembler function, primarily due t
 
 ## How do I even use assembly?
 
-It's not so scary, EVM assembly is very simple by design. Check out the Solidity docs for inline assembly, essentially the first argument to Solidity assembly functions must be the topmost position on the stack, second argument is the item on the stack pushed on immediately prior to the topmost, etc. Good luck.
+EVM assembly takes practice! But luckily, it's easier than assembly languages for modern chipsets. Skim the Ethereum yellow paper and pay close attention to the appendix for the list of possible opcodes. All of these opcodes can be used in EMASM!
+
+For an easier reference after you're introduced, check out the Solidity docs for inline assembly, essentially the first argument to Solidity assembly functions must be the topmost position on the stack, second argument is the item on the stack pushed on immediately prior to the topmost, etc. Good luck.
 
 ## Do you have any macros?
 
