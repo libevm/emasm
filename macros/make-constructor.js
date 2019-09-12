@@ -10,5 +10,5 @@ module.exports = (ary) => [
 	'codecopy',
 	'0x0',
 	'return',
-	emasm([ 'bytes:runtime-code', ary ])
+	[ 'bytes:runtime-code', [ emasm(ary) ] ]
 ];
