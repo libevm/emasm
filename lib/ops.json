@@ -95,6 +95,7 @@
  "log3": "a3",
  "log4": "a4",
  "create": "f0",
+ "create2": "f5",
  "call": "f1",
  "callcode": "f2",
  "return": "f3",
