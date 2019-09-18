@@ -6,5 +6,6 @@ Object.assign(module.exports, {
   addHexPrefix: require('./add-hex-prefix'),
   stripHexPrefix: require('./strip-hex-prefix'),
   isHexPrefixed: require('./is-hex-prefixed'),
-  coerceToBN: require('./coerce-to-bn')
+  coerceToBN: require('./coerce-to-bn'),
+	encodePush: require('./encode-push')
 });
