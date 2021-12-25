@@ -1,3 +1,6 @@
+FORK FROM https://bitbucket.org/raypulver/emasm/src/master/
+
+
 # EMASM
 
 This repo is for EMASM, the Ethereum Macro Assembler (derived from the name MASM for the classic Microsoft Macro Assembler). EMASM was developed for the ETHBoston 2019 hackathon to provide tooling for a technique that came to me in a dream I had a few weeks earlier.
